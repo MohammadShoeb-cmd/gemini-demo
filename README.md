@@ -1,5 +1,8 @@
 # Gemini Python demo
 
+The original console demo remains below. For the new fictional order-support
+agent, approval workflow, tests, and verification scenarios, see [SUPPORT.md](SUPPORT.md).
+
 This demo uses Python 3 and the Google Gen AI SDK. It reads your API key from the GEMINI_API_KEY environment variable.
 
 Save your key once in PowerShell (replace YOUR_API_KEY with your key):
